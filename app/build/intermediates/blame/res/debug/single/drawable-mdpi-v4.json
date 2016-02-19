@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/josemanuelgil/josema/Android/StudioWorkspace/SpectrumAnalyzer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/spectralicon.png",
+        "source": "/Users/josemanuelgil/josema/Android/StudioWorkspace/SpectrumAnalyzer/app/src/main/res/drawable-mdpi/spectralicon.png"
+    },
+    {
+        "merged": "/Users/josemanuelgil/josema/GitHub/FFTSpectralAnalyzer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/josemanuelgil/josema/GitHub/FFTSpectralAnalyzer/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/josemanuelgil/josema/Android/StudioWorkspace/SpectrumAnalyzer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/josemanuelgil/josema/Android/StudioWorkspace/SpectrumAnalyzer/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/josemanuelgil/josema/GitHub/FFTSpectralAnalyzer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/spectralicon.png",
+        "source": "/Users/josemanuelgil/josema/GitHub/FFTSpectralAnalyzer/app/src/main/res/drawable-mdpi/spectralicon.png"
+    }
+]
